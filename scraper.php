@@ -1,4 +1,5 @@
 <?php
+require 'scraperwiki.php';
 $url = "http://www.fingalcoco.ie/minutes/";
 $titleurl = "http://www.fingalcoco.ie/minutes/";
 
